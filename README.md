@@ -1,1 +1,3 @@
-# Tkinter-test-old-project
+# Tkinter test (old project)
+
+python(Tkinter) trial
